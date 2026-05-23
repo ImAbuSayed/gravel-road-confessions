@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Gravel Road Confessions
+
+This log tracks the cryptographic history and versioning for the song **Gravel Road Confessions** (gravel-road-confessions).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T15:11:43.923736 | `v1` | `13902477ed78e6789ccdfab89b0a83574125797477f93c85a5098cc16d697f47` | `24feb40fb291dc7bf085d7693ebbd227aab322b7c3927735a0e9442a6dd24f4d` | `2026-05-23_gravel-road-confessions-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

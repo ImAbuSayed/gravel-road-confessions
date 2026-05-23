@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/gravel-road-confessions/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Gravel Road Confessions](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gravel-road-confessions/) |
+| **Get License** | [Obtain a Music License for Gravel Road Confessions](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gravel-road-confessions/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `13902477ed78e6789ccdfab89b0a83574125797477f93c85a5098cc16d697f47` |
 | **Timestamp** | May 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
