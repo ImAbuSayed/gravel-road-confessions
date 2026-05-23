@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/gravel-road-confessions/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Gravel Road Confessions](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gravel-road-confessions/) |
+| **Get License** | [Official Music Licensing for Gravel Road Confessions](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gravel-road-confessions/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I've been driving down this gravel road just to find your door
+> There's a fire in the midnight air that wasn't there before
+> Got the windows down but I'm burning up from the thought of you
+> Let me pull you in and show you what this country heart can do
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
